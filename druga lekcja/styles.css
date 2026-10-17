@@ -1,0 +1,66 @@
+body{
+    color: red;
+}
+
+#naglowek{
+    background-color:lemonchiffon;
+    color: rgb(255, 251, 0);
+    text-align: center;
+    padding: 30;
+    font-family: "Arial", sans-serif;
+    letter-spacing: 2px;
+}
+
+#naglowek h1{
+    font-size:32;
+    font-weight: bold ;
+    text-transform:uppercase;
+}
+
+#naglowek p{
+    font-size: 16px;
+    font-style: italic;
+    color: rgb(213, 216, 57);
+}
+
+#baner{
+    background-image:url(https://picsum.photos/1200/300?random=1)
+    background-size cover;
+    background-position: center;
+    color: #ffff;
+    text-align: center;
+    padding: 60px 20px;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+#baner h2{
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 1.2;
+    letter-spacing: 3;
+    word-spacing: 8px;
+    text-transform:uppercase;
+}
+
+#baner p{
+    font-size: 24px;
+    font-style: italic;
+    white-space: nowwrap;
+    direction: Itr;
+}
+
+#tresc {
+    width: 100%;
+    background-color: #e8e9b8
+    padding: 20xp 0x;
+    min-height: 300px;
+}
+
+.wpis {
+    width: 80%;
+    margin: 15px auto;
+    background-color: rgba(223, 228, 160, 0.8)
+    border-radius: 10px;
+    padding: 15px 20px;
+    box-shadow: 0 2px 8px  #
+}
